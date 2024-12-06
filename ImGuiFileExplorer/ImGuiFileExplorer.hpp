@@ -1,12 +1,9 @@
 #ifndef IMGUIFILEEXPLORER_H
 #define IMGUIFILEEXPLORER_H
 
-#include <cstddef>
 #include <filesystem>
 #include <set>
 #include <string>
-
-#include <iostream>
 
 #include <imgui.h>
 
